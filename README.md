@@ -1,6 +1,6 @@
 # Web Development Project 7 - *Crewmate Creator*
 
-Submitted by: **Abhilash Sheri**
+Submitted by: **Himavanth Karpurapu**
 
 This web app: **A fun web application that allows users to create, manage, and customize their own crew of space companions. Users can create crewmates with unique names, speeds, and colors, view them in a gallery, and edit or delete them as needed.**
 
@@ -35,13 +35,7 @@ The following **additional** features are implemented:
 * [x] Animated hover effects on crewmate cards
 * [x] Persistent navigation sidebar for easy access to all features
 
-## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [Kap](https://getkap.co/) for macOS
 
 ## Notes
 
